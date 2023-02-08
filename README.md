@@ -1,2 +1,3 @@
 # The_Beatles_Fan_Page
-fan site with multiple pages
+
+Fan site with multiple pages, simple animations, media queries and dynamic photo output
